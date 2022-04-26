@@ -1,1 +1,1 @@
-This is master branch init
+This is shs branch init
