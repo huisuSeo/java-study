@@ -1,3 +1,4 @@
-This is shs another super master branch init  
-changed  
-Is this second line?
+This is shs another super master branch init
+changed
+Is this second line?  
+gogogogo
